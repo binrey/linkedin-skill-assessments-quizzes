@@ -3,13 +3,13 @@
 #### Q1. You are part of data science team that is working for a national fast-food chain. You create a simple report that shows trend: Customers who visit the store more often and buy smaller meals spend more than customers who visit less frequently and buy larger meals. What is the most likely diagram that your team created?
 
 - [ ] multiclass classification diagram
-- [x] linear regression and scatter plots
+- [ ] linear regression and scatter plots
 - [ ] pivot table
 - [ ] K-means cluster diagram
 
 #### Q2. You work for an organization that sells a spam filtering service to large companies. Your organization wants to transition its product to use machine learning. It currently a list Of 250,00 keywords. If a message contains more than few of these keywords, then it is identified as spam. What would be one advantage of transitioning to machine learning?
 
-- [x] The product would look for new patterns in spam messages.
+- [ ] The product would look for new patterns in spam messages.
 - [ ] The product could go through the keyword list much more quickly.
 - [ ] The product could have a much longer keyword list.
 - [ ] The product could find spam messages using far fewer keywords.
@@ -19,18 +19,18 @@
 - [ ] data cluster
 - [ ] Supervised set
 - [ ] big data
-- [x] test data
+- [ ] test data
 
 #### Q4. In traditional computer programming, you input commands. What do you input with machine learning?
 
 - [ ] patterns
 - [ ] programs
 - [ ] rules
-- [x] data
+- [ ] data
 
 #### Q5. Your company wants to predict whether existing automotive insurance customers are more likely to buy homeowners insurance. It created a model to better predict the best customers contact about homeowners insurance, and the model had a low variance but high bias. What does that say about the data model?
 
-- [x] It was consistently wrong.
+- [ ] It was consistently wrong.
 - [ ] It was inconsistently wrong.
 - [ ] It was consistently right.
 - [ ] It was equally right end wrong.
@@ -41,19 +41,19 @@
 
 - [ ] Find labeled data of sunny days so that the machine will learn to identify bad weather.
 - [ ] Use unsupervised learning have the machine look for anomalies in a massive weather database.
-- [x] Create a training set of unusual patterns and ask the machine learning algorithms to classify them.
+- [ ] Create a training set of unusual patterns and ask the machine learning algorithms to classify them.
 - [ ] Create a training set of normal weather and have the machine look for similar patterns.
 
 #### Q7. You work in a data science team that wants to improve the accuracy of its K-nearest neighbor result by running on top of a naive Bayes result. What is this an example of?
 
 - [ ] regression
-- [x] boosting
+- [ ] boosting
 - [ ] bagging
 - [ ] stacking
 
 #### Q8. `____` looks at the relationship between predictors and your outcome.
 
-- [x] Regression analysis
+- [ ] Regression analysis
 - [ ] K-means clustering
 - [ ] Big data
 - [ ] Unsupervised learning
@@ -63,7 +63,7 @@
 - [ ] a data entry system
 - [ ] a data warehouse system
 - [ ] a massive data repository
-- [x] a product recommendation system
+- [ ] a product recommendation system
 
 #### Q10. What does this image illustrate?
 
